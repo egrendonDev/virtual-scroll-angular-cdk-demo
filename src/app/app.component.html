@@ -1,5 +1,7 @@
 <h1 class="center">Virtual Scroll using Angular 7</h1>
 
+<button (click)="resetList()" [value]="'Reset List'">Reset List</button>
+
 <ul class="list">
   <cdk-virtual-scroll-viewport  style="height: 500px" itemSize="1" >
     <ng-container *cdkVirtualFor="let n of numbers">
