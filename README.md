@@ -1,3 +1,6 @@
+https://medium.com/front-end-weekly/how-to-use-virtual-scrolling-using-angular-7-cdk-9802110111fa
+
+
 # Angular7App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
